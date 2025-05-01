@@ -1,0 +1,14 @@
+[project]
+name = "11763-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "highdicom>=0.25.1",
+    "imageio>=2.37.0",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "pydicom>=3.0.1",
+    "simpleitk>=2.5.0",
+]
